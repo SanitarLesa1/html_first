@@ -1,0 +1,84 @@
+
+
+
+
+body {
+    background-color: #6f9e80;
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .map{
+    display:flex;
+    height: 200px;
+    justify-content:center;
+
+    padding: 20px;
+    background-image: url('img/map.jpeg');
+    background-position: bottom;
+    background-size: 20% 100%;
+    margin-bottom: 100px;
+  }
+  
+  .mario{
+    width: 50px;
+  }
+  .mario_1{
+    align-self: flex-start;
+  }
+  .mario_2{
+    align-self: center;
+  }
+  .mario_3{
+    align-self: flex-end;
+  }
+  
+  
+sd{
+
+body {
+    background-color: #6f9e80;
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .map{
+    height: 200px;
+    padding: 20px;
+    background-image: url('img/map.jpeg');
+    background-position: bottom;
+    background-size: 20% 100%;
+    margin-bottom: 100px;
+  }
+  
+  .mario{
+    width: 50px;
+  }
+
+  .map_1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .map_2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+  }
+  .map_2 .mario{
+    
+    height: 100%;
+
+  }
+  .map_3{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  
+  
+  
+  
+  
